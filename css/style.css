@@ -279,7 +279,7 @@ body {
     border: 2px solid #fff;
     padding: 10px;
     text-align: center;
-    width: 50%;
+    width: 81%;
     margin: auto;
     
 }
@@ -322,7 +322,7 @@ body {
     margin-top: 120px;   
 }
 .testimonios .testimonios-title{
-    width: 50%;
+    width: 70%;
     margin: auto;
     text-align: center;
     
@@ -413,7 +413,7 @@ body {
 }
 .footer .deg-footer{
     position: absolute;
-    width: 95%;
+    width: 87%;
     height: 100%;
     background: rgba(0,0,0,0.6);
 
@@ -430,7 +430,7 @@ body {
     
 }
 .footer .footer-content .footer-title{
-    width: 400px;
+    width: 300px;
     margin: auto;
     border:2px solid #f56b08;
     padding: 10px;
@@ -534,7 +534,7 @@ body {
 /** Footer **/
 
 /** Media query **/
-@media only screen and (max-width:1920px){
+@media only screen and (max-width:2560px){
     .btn-menu > .fa-bars{
         display: block;
         position: absolute;
